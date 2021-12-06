@@ -10,7 +10,7 @@ This module allows to work alternatively on its truth table, Walsh spectrum or A
 while keeping the two other representations updated.
 
 This module also allows to check its resiliency and algebraic immunity,
-and to computes its annihilators.
+and to compute its annihilators.
 """
 
 from copy import deepcopy as copy
